@@ -373,5 +373,6 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/e3455128-80c6-4a10-bd16-7015cae0c291)
 
-# Result:
+## 
+Result:
 Data Visualization using matplot python library for the given data is successful.
